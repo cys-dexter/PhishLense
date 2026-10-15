@@ -35,9 +35,9 @@ Modern phishing attacks exploit visual deception, obscure domain structures, hom
 - **Zero Database Requirement**: Instant execution with zero persistence or telemetry logging.
 - **Microsecond Analysis**: Fast regex and string decomposition algorithms.
 - **Human-Centric Output**: Transforms technical anomalies (Punycode, basic authentication delimiters, nested subdomains) into plain-English risk assessments.
-🚀 **Live Preview:** Check out the live deployment link in the **About** section on the right side of the page!
----
 
+---
+🚀 **Live Preview:** Check out the live deployment link in the **About** section on the right side of the page!
 ## Key Features
 
 - **Structural URL Dissection**: Extracts protocol, authority host, nested subdomains, registered domain, top-level domain (TLD), port, path, and query parameters complying with RFC 3986.
