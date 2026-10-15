@@ -36,7 +36,7 @@ Modern phishing attacks exploit visual deception, obscure domain structures, hom
 - **Microsecond Analysis**: Fast regex and string decomposition algorithms.
 - **Human-Centric Output**: Transforms technical anomalies (Punycode, basic authentication delimiters, nested subdomains) into plain-English risk assessments.
 > **🌐 Live Demo & Production:**  
-> You can access the live version of **PhishLense** directly via the **Website** link located in the **About** section on the right sidebar of this repository[cite: 1].
+> You can access the live version of **PhishLense** directly via the **Website** link located in the **About** section on the right sidebar of this repository.
 ---
 
 ## Key Features
